@@ -1,0 +1,25 @@
+{
+  "name": "13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "http": "0.0.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamericanartist/Node-Foundations-WebScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamericanartist/Node-Foundations-WebScraper/issues"
+  },
+  "homepage": "https://github.com/iamericanartist/Node-Foundations-WebScraper#readme"
+}
