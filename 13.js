@@ -2,11 +2,11 @@
 
 'use strict';
 
-//////////////////// EXECUTE with "./13.js (site to look at" ////////////////////
+/////////////////// EXECUTE with "./13.js (site to look at)" ///////////////////
 ////// ran "chmod +x 13.js" from TERMINAL to allow execution capabilities //////
 ///////////////////////  npm install request (for "GET") ///////////////////////
 ///////////////////////  npm install cheerio (for "LOAD") //////////////////////
-/////////////////////  npm install http (for "createServer") ////////////////////
+/////////////////////  npm install http (for "createServer") ///////////////////
 
 const [,, ...args] = process.argv
 const { createServer } = require('http')
